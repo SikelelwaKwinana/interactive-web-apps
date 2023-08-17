@@ -11,7 +11,7 @@ const firstname = "Timothy";
 
  const greeting = nickname || firstname 
 
- /**********OR**********/
+ /**********OR LONGER VERSION**********/
  
 // if (nickname) {
 //     console.log(`Good Morning, ${nickname}!`);
